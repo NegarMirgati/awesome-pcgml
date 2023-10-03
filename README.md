@@ -12,6 +12,8 @@
   - Sarkar, A., Yang, Z., & Cooper, S. (2020). Controllable level blending between games using variational autoencoders
   - Chen, E., Sydora, C., Burega, B., Mahajan, A., Abdullah, A., Gallivan, M., & Guzdial, M. (2020). Image-to-Level: Generation and Repair
   - Awiszus, M., Schubert, F., & Rosenhahn, B. (2020, October). TOAD-GAN: Coherent style level generation from a single example
+  - Summerville, A., & Mateas, M. (2016). Super Mario as a string: Platformer level generation via lstms
+  - Cooper, S. (2022). Sturgeon: Tile-Based Procedural Level Generation via Learned and Designed Constraints
     
 ## Asset Generation 
   - Saravanan, A., & Guzdial, M. (2022). Pixel vq-vaes for improved pixel art representation.
@@ -23,4 +25,5 @@
 
 ## Reinforcement Learning
   - Khalifa, Ahmed, et al. "Pcgrl: Procedural content generation via reinforcement learning."
+  - Mahmoudi-Nejad, A., Guzdial, M., & Boulanger, P. (2021, October). Arachnophobia exposure therapy using experience-driven procedural content generation via reinforcement learning (EDPCGRL)
     
