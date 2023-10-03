@@ -26,4 +26,10 @@
 ## Reinforcement Learning
   - Khalifa, Ahmed, et al. "Pcgrl: Procedural content generation via reinforcement learning."
   - Mahmoudi-Nejad, A., Guzdial, M., & Boulanger, P. (2021, October). Arachnophobia exposure therapy using experience-driven procedural content generation via reinforcement learning (EDPCGRL)
+
+## Mixed-Initiative (Co-creative)
+  - Guzdial, M., Liao, N., & Riedl, M. (2018). Co-creative level design via machine learning
+  - Zhou, Z., & Guzdial, M. (2021, August). Toward co-creative dungeon generation via transfer learning
+    
+    
     
