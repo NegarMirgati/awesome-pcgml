@@ -30,6 +30,9 @@
 ## Mixed-Initiative (Co-creative)
   - Guzdial, M., Liao, N., & Riedl, M. (2018). Co-creative level design via machine learning
   - Zhou, Z., & Guzdial, M. (2021, August). Toward co-creative dungeon generation via transfer learning
+
+## Explainability
+  - Guzdial, M., Reno, J., Chen, J., Smith, G., & Riedl, M. (2018). Explainable PCGML via game design patterns
     
     
     
