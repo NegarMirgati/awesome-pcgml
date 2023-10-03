@@ -1,4 +1,4 @@
-# pcgml-papers
+# awesome-pcgml
 100 must read pcgml papers
 
 
