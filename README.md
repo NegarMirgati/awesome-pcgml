@@ -21,7 +21,7 @@
   - Gonzalez, A., Guzdial, M., & Ramos, F. (2020). Generating gameplay-relevant art assets with transfer learning
   - Loftsdottir, Dagmar, and Matthew Guzdial. "SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches
     
-//## :gear: Mechanic Generation
+[comment]: <> (## :gear: Mechanic Generation)
 
 ## :brain: Reinforcement Learning
   - Khalifa, Ahmed, et al. "Pcgrl: Procedural content generation via reinforcement learning."
