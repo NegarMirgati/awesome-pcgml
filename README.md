@@ -39,6 +39,7 @@
 
 ## :bar_chart: Datasets
   - Summerville, A. J., Snodgrass, S., Mateas, M., & Ontanón, S. (2016). The vglc: The video game level corpus
+  - Snodgrass, S., Summerville, A., & Ontanon, S. (2021). Studying the Effects of Training Data on Machine Learning-Based Procedural Content Generation
     
     
     
