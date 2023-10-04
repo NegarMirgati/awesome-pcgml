@@ -7,6 +7,7 @@
 ## :books: Books and Surveys 
   - A. Summerville et al., "Procedural Content Generation via Machine Learning (PCGML) 
   - Guzdial, M., Snodgrass, S., Summerville, A.J. (2022). Introduction. In: Procedural Content Generation via Machine Learning
+  - Shaker, N., Togelius, J., & Nelson, M. J. (2016). Procedural content generation in games.
 
 ## :video_game: Level Generation
   - Guzdial, M., & Riedl, M. (2021). Game Level Generation from Gameplay Videos.
