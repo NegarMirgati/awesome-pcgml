@@ -34,6 +34,9 @@
 ## :mag_right: Explainability
   - Guzdial, M., Reno, J., Chen, J., Smith, G., & Riedl, M. (2018). Explainable PCGML via game design patterns
 
+## :scroll: Quests
+  - Kristen, K. Y., Sturtevant, N. R., & Guzdial, M. (2020). What is a Quest?. In AIIDE Workshops.
+
 ## :bar_chart: Datasets
   - Summerville, A. J., Snodgrass, S., Mateas, M., & Ontanón, S. (2016). The vglc: The video game level corpus
   - Snodgrass, S., Summerville, A., & Ontanon, S. (2021). Studying the Effects of Training Data on Machine Learning-Based Procedural Content Generation
