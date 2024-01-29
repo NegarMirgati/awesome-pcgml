@@ -15,6 +15,7 @@
   - Chen, E., Sydora, C., Burega, B., Mahajan, A., Abdullah, A., Gallivan, M., & Guzdial, M. (2020). Image-to-Level: Generation and Repair
   - Awiszus, M., Schubert, F., & Rosenhahn, B. (2020, October). TOAD-GAN: Coherent style level generation from a single example
   - Summerville, A., & Mateas, M. (2016). Super Mario as a string: Platformer level generation via lstms
+  - Mirgati, N., & Guzdial, M. (2023, August). Joint Level Generation and Translation Using Gameplay Videos. In 2023 IEEE Conference on Games (CoG) (pp. 1-10). IEEE.
     
 ## :art: Asset Generation 
   - Saravanan, A., & Guzdial, M. (2022). Pixel vq-vaes for improved pixel art representation
